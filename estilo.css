@@ -36,7 +36,14 @@ p {
   padding: 40px 10px 5px 10px;
   overflow: hidden;
 }
-
+ {
+  background-color: #266F2F;
+  border: 2px solid black;
+  height: 150px;
+  margin-right: 10px;
+  padding: 40px 10px 5px 10px;
+  overflow: hidden;
+}
 
 #container {
   position: relative;
@@ -83,7 +90,19 @@ p {
   font-family: Arial, Helvetica, sans-serif;
 
 }
+#p4 {
+ background-color: #5935D5;
+  position: absolute;
+  top: 0;
+  right: 0;
+  font-weight: bold;
+  height: 35px;
+  width: 120px;
+  padding: 10px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
 
+}
 .row {
   width: 100%;
 
@@ -105,7 +124,7 @@ p {
     width: 25%;
   }
   .col-lg-4 {
-    width: 33.33%;
+    width: 24.33%;
   
   }
   .col-lg-5 {
