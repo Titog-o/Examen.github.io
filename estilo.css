@@ -1,4 +1,45 @@
+*{
+  margin: 0;
+  padding: 0;
+  
+}
+.navbar{
 
+border: none;
+background-color: black;
+color: #61122F;
+}
+body{
+  background-color: #63A4B0;
+  color: white;
+}
+.glyphicon{
+  font-size: 30px;
+  color:#61122F; 
+}
+
+.center{
+  width: 90%;
+  background-color: blue;
+
+}
+.container
+{
+  background-color: blueviolet;
+}
+.text-center{
+  font-size: 30px;
+}
+
+h2{
+  text-align: center;
+}
+#myNavbar ul li a {
+  color: #61122F;
+}
+.navbar-brand{
+font-size: 30px;  
+}
 }
 #navegador ul{
   list-style-type: none;
@@ -19,6 +60,48 @@
 #navegador li a:hover{
   background-color: #333333;
   color: #ffffff;
+}
+*{
+  margin: 0;
+  padding: 0;
+  
+}
+.navbar{
+
+border: none;
+background-color: black;
+color: #61122F;
+}
+body{
+  background-color: #61122F;
+  color: white;
+}
+.glyphicon{
+  font-size: 30px;
+  color:#61122F; 
+}
+
+.center{
+  width: 90%;
+  background-color: grey;
+
+}
+.container
+{
+  background-color: grey;
+}
+.text-center{
+  font-size: 30px;
+}
+
+h2{
+  text-align: center;
+}
+#myNavbar ul li a {
+  color: #61122F;
+}
+.navbar-brand{
+font-size: 30px;  
 }      
 *{
   box-sizing: border-box;
@@ -29,7 +112,7 @@ h1{
 }
 
 p {
-  background-color: #5D5E5D;
+  background-color: #63B0A0;
   border: 2px solid black;
   height: 150px;
   margin-right: 10px;
@@ -124,7 +207,7 @@ p {
     width: 25%;
   }
   .col-lg-4 {
-    width: 24.99%;
+    width: 25.00%;
   
   }
   .col-lg-5 {
@@ -146,7 +229,7 @@ p {
     width: 83.33%;
   }
   .col-lg-11 {
-    width: 91.66%;
+    width: 95.66%;
   }
   .col-lg-12 {
     width: 100%;
